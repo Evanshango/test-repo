@@ -6,7 +6,7 @@ public class Main {
 
 //        forLoop();
 //        iterateWhileLoop();
-//        whileLoop();
+        whileLoop();
 
         outputGoats();
     }
